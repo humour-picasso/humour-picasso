@@ -6,14 +6,11 @@ Long-time PHP developer. Living in NingBo and working for CI&T..
 
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,redis,mysql,laravel,nodejs,nginx,js)](https://skillicons.dev)
 
 ## 📊 Github Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humour-picasso
-&hide=html)
-![xbot's github stats](https://github-readme-stats.vercel.app/api?username=humour-picasso
-&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humour-picasso&hide=html)
+![xbot's github stats](https://github-readme-stats.vercel.app/api?username=humour-picasso&show_icons=true&count_private=true&line_height=40)
 
-![](https://visitcount.itsvg.in/api?id=humour-picasso
-&label=Profile%20Views&color=12&icon=5&pretty=true)
+![](https://visitcount.itsvg.in/api?id=humour-picasso&label=Profile%20Views&color=12&icon=5&pretty=true)
