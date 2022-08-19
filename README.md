@@ -6,7 +6,7 @@ Long-time PHP developer. Living in NingBo and working for CI&T..
 
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,drupal,yii2,git,linux,mysql,redis](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 📊 Github Status
 
