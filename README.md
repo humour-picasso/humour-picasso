@@ -2,6 +2,9 @@
 
 Long-time PHP developer. Living in NingBo and working for CI&T..
 
+## AWS Certified AI Practitioner
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7900268a-4701-445b-b44f-b9abe2b80b0b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 📫 How to reach me? [conn@ciandt.com](mailto:conn@ciandt.com)
 
 
